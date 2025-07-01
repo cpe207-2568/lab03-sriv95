@@ -1,0 +1,28 @@
+body {
+    background-color: lightcoral;
+    font-family: "Delius";
+    font-size: medium;
+    color: brown;
+}
+
+nav {
+    background-color: rgb(250, 210, 210);
+    border-bottom: 4px solid white;
+}
+
+.navbar-brand {
+    color: brown;
+}
+
+.stack-container {
+    background-color: rgb(250, 210, 210);
+    border: 4px solid white;
+}
+
+.stack-container img {
+    padding-top: 4px;
+}
+
+.profile {
+    background-color: white;
+}
