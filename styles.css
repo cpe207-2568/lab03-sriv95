@@ -12,6 +12,8 @@ nav {
 
 .navbar-brand {
     color: brown;
+    font-weight: bold;
+    font-size: x-large;
 }
 
 .stack-container {
@@ -26,3 +28,17 @@ nav {
 .profile {
     background-color: white;
 }
+
+a {
+    color: crimson;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: darkred;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
